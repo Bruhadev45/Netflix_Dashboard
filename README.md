@@ -5,6 +5,7 @@ This project contains an interactive data visualization dashboard built using Ta
 ## Overview
 
 The dashboard provides insights into Netflix's content library, including distribution by genre, release year, ratings, and other metadata. It helps users explore the diversity and trends in Netflix's offerings over time.
+![Netflix](https://github.com/user-attachments/assets/6e0ea361-669e-491d-8d35-7c42befb2294)
 
 ## Dataset
 
